@@ -18,27 +18,27 @@ Plays Spotify playlists based on detected moods.
 
 ## Installation Instructions:
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/Shaswat10Sinha/Mood-Based-Music-Player.git
 
-Install dependencies:
+### Install dependencies:
 
 pip install -r requirements.txt
 
 Download FER2013 Dataset and place it in the 'data/' folder.
 
-Train the CNN Model:
+### Train the CNN Model:
 
-python train_model.py
+facial expression.py
 
 Save the model as an H5 file for deployment.
 
-Run the application:
+### Run the application:
 
 python app.py
 
-Spotify API Setup:
+### Spotify API Setup:
 
 Register your application on Spotify Developer Dashboard.
 
@@ -46,7 +46,7 @@ Note down your Client ID and Client Secret.
 
 Update the .env file with the credentials.
 
-Usage:
+### Usage:
 
 Launch the UI and grant webcam access.
 
@@ -54,7 +54,7 @@ Start the emotion detection process.
 
 Enjoy the auto-curated playlists based on your mood.
 
-Tech Stack:
+## Tech Stack:
 
 Machine Learning: TensorFlow, Keras
 
@@ -64,7 +64,7 @@ Music Integration: Spotify API
 
 UI Development: Gradio/Streamlit
 
-Future Improvements:
+## Future Improvements:
 
 Add support for more emotions.
 
