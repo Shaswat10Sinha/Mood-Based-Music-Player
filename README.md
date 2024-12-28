@@ -3,7 +3,7 @@
 ## Overview
 This application detects emotions in real time using facial expressions and plays music matching the detected mood through Spotify playlists.
 
-flowchart.drawio.png
+https://github.com/Shaswat10Sinha/Mood-Based-Music-Player.git/flowchart.drawio.png
 
 ## Key Features:
 
