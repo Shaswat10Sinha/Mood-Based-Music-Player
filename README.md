@@ -3,6 +3,8 @@
 ## Overview
 This application detects emotions in real time using facial expressions and plays music matching the detected mood through Spotify playlists.
 
+flowchart.drawio.png
+
 ## Key Features:
 
 Detects emotions (happy, sad, angry, etc.) using a CNN model trained on the FER2013 dataset.
